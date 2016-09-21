@@ -45,7 +45,7 @@ To create a `package.json` run:
 > npm init
 ```
 
-This will initate a command line questionnaire that will conclude with the 
+This will initiate a command line questionnaire that will conclude with the 
 creation of a `package.json` in the directory you initiated the command.
 
 ### The `--yes` init flag
